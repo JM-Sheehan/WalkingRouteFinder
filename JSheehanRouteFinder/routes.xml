@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><graph>
+	<landmark id="1">
+		<data>Waterford Institute of Technology</data>
+		<adjacents>
+			<adjacent>
+				<destination>14</destination>
+				<distance>1000</distance>
+				<Streets>Cork Road, Larcheville Estate</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>12</destination>
+				<distance>750</distance>
+				<Streets>Rockshire Road, Marymount, Fountain Street</Streets>
+			</adjacent>
+		</adjacents>
+	</landmark>
+	<landmark id="2">
+		<data>Cathedral Square</data>
+		<adjacents>
+			<adjacent>
+				<destination>11</destination>
+				<distance>130</distance>
+				<Streets>Greyfriar's, Bailey New Street</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>4</destination>
+				<distance>850</distance>
+				<Streets>Henrietta Street, Lady Lane, Patrick Street</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>14</destination>
+				<distance>2600</distance>
+				<Streets>Henrietta Street, Lady Lane, New Street, Barrack Street, Morrison's Road, Slivkeale Road, Paddy Browne's Road</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>7</destination>
+				<distance>44</distance>
+				<Streets>Henrietta Street</Streets>
+			</adjacent>
+		</adjacents>
+	</landmark>
+	<landmark id="3">
+		<data>Clock Tower</data>
+		<adjacents>
+			<adjacent>
+				<destination>15</destination>
+				<distance>350</distance>
+				<Streets>Meagher's Quay, Merchants's Quay</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>5</destination>
+				<distance>450</distance>
+				<Streets>Meagher's Quay, Barronstrand Street</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>11</destination>
+				<distance>500</distance>
+				<Streets>Meagher's Quay, Barronstrand Street, Baileys New Street</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>6</destination>
+				<distance>280</distance>
+				<Streets>Meagher's Quay, Barronstrand Street, Broad Street, Michael Street</Streets>
+			</adjacent>
+		</adjacents>
+	</landmark>
+	<landmark id="4">
+		<data>Ballybricken</data>
+		<adjacents>
+			<adjacent>
+				<destination>15</destination>
+				<distance>550</distance>
+				<Streets>The Glen, Thomas Street, Vulcan Street, Merchants Quay</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>6</destination>
+				<distance>500</distance>
+				<Streets>Patrick Street, Michael Street</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>14</destination>
+				<distance>2100</distance>
+				<Streets>Grenn Street, Barrack Street, Morrison's Road, Slivekeale Road, Paddy Browne's Road</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>2</destination>
+				<distance>850</distance>
+				<Streets>Patrick Street, Lady Lane, Henrietta Street</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>7</destination>
+				<distance>800</distance>
+				<Streets>Patrick Street, Peter Street, Bakehouse Lane, Lady Lane, Henrietta Street</Streets>
+			</adjacent>
+		</adjacents>
+	</landmark>
+	<landmark id="5">
+		<data>Reginald's Tower</data>
+		<adjacents>
+			<adjacent>
+				<destination>11</destination>
+				<distance>82</distance>
+				<Streets>The Mall, Bailey's New Street</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>9</destination>
+				<distance>2300</distance>
+				<Streets>The Mall, Lombard Street, Dunmore Road</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>3</destination>
+				<distance>450</distance>
+				<Streets>Barronstrand Street, Meagher's Quay</Streets>
+			</adjacent>
+		</adjacents>
+	</landmark>
+	<landmark id="6">
+		<data>Library</data>
+		<adjacents>
+			<adjacent>
+				<destination>3</destination>
+				<distance>280</distance>
+				<Streets>Michael Street, Broad Street, Barronstrand Street, Meagher's Quay</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>4</destination>
+				<distance>500</distance>
+				<Streets>Michael Street, Patrick Street</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>11</destination>
+				<distance>450</distance>
+				<Streets>Michael Street, Lady Lane, Henrietta Street, Bailey's New Street</Streets>
+			</adjacent>
+		</adjacents>
+	</landmark>
+	<landmark id="7">
+		<data>Museum of Treasures</data>
+		<adjacents>
+			<adjacent>
+				<destination>2</destination>
+				<distance>44</distance>
+				<Streets>Henrietta Street</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>4</destination>
+				<distance>800</distance>
+				<Streets>Henrietta Street, Lady Lane, Bakehouse Lane, Peter Street, Patrick Street</Streets>
+			</adjacent>
+		</adjacents>
+	</landmark>
+	<landmark id="8">
+		<data>Waterford Golf Club</data>
+		<adjacents>
+			<adjacent>
+				<destination>10</destination>
+				<distance>2700</distance>
+				<Streets>Rockshire Road, Dock Road</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>13</destination>
+				<distance>2600</distance>
+				<Streets>Rockshire Road, Marymount, Fountain Street</Streets>
+			</adjacent>
+		</adjacents>
+	</landmark>
+	<landmark id="9">
+		<data>Waterford University Hospital</data>
+		<adjacents>
+			<adjacent>
+				<destination>5</destination>
+				<distance>2300</distance>
+				<Streets>Dunmore Road, Lombard Street, The Mall</Streets>
+			</adjacent>
+		</adjacents>
+	</landmark>
+	<landmark id="10">
+		<data>Train Station</data>
+		<adjacents>
+			<adjacent>
+				<destination>8</destination>
+				<distance>2700</distance>
+				<Streets>Dock Road, Rockshire Road</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>13</destination>
+				<distance>1900</distance>
+				<Streets>Dock Road, Rockenham</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>15</destination>
+				<distance>450</distance>
+				<Streets>Bridge Street, Merchant's Quay</Streets>
+			</adjacent>
+		</adjacents>
+	</landmark>
+	<landmark id="11">
+		<data>Viking Sword</data>
+		<adjacents>
+			<adjacent>
+				<destination>2</destination>
+				<distance>130</distance>
+				<Streets>Bailey's New Street, Greyfriar's</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>3</destination>
+				<distance>500</distance>
+				<Streets>Bailey's New Street, Barronstrand Street, Meagher's Quay</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>5</destination>
+				<distance>82</distance>
+				<Streets>Bailey's New Street, The Mall</Streets>
+			</adjacent>
+		</adjacents>
+	</landmark>
+	<landmark id="12">
+		<data>Ballybeg</data>
+		<adjacents>
+			<adjacent>
+				<destination>1</destination>
+				<distance>750</distance>
+				<Streets>Ardmore Park, Ardmore Terrace</Streets>
+			</adjacent>
+		</adjacents>
+	</landmark>
+	<landmark id="13">
+		<data>Ferrybank</data>
+		<adjacents>
+			<adjacent>
+				<destination>10</destination>
+				<distance>1900</distance>
+				<Streets>Rockenham, Dock Road</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>8</destination>
+				<distance>2600</distance>
+				<Streets>Fountain Street, Lombard Street, Dunmore Road</Streets>
+			</adjacent>
+		</adjacents>
+	</landmark>
+	<landmark id="14">
+		<data>Waterford Shopping Centre</data>
+		<adjacents>
+			<adjacent>
+				<destination>4</destination>
+				<distance>2100</distance>
+				<Streets>Paddy Browne's Road, Slivekeale Road, Morrison's Road, Barrack Street, Green Street</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>2</destination>
+				<distance>2600</distance>
+				<Streets>Patrick Street, Lady Lane, Henrietta Street</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>1</destination>
+				<distance>1000</distance>
+				<Streets>Larchville Estate, Cork Road</Streets>
+			</adjacent>
+		</adjacents>
+	</landmark>
+	<landmark id="15">
+		<data>Bus Station</data>
+		<adjacents>
+			<adjacent>
+				<destination>3</destination>
+				<distance>350</distance>
+				<Streets>Merchant's Quay, Meagher's Quay</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>10</destination>
+				<distance>450</distance>
+				<Streets>Merchant's Quay, Bridge Street</Streets>
+			</adjacent>
+			<adjacent>
+				<destination>4</destination>
+				<distance>550</distance>
+				<Streets>Merchant's Quay, Vulcan Street, Thomas Street </Streets>
+			</adjacent>
+			<adjacent>
+				<destination>16</destination>
+				<distance>375</distance>
+				<Streets>one, two</Streets>
+			</adjacent>
+		</adjacents>
+	</landmark>
+	<landmark id="16">
+		<data>name</data>
+		<adjacents>
+			<adjacent>
+				<destination>15</destination>
+				<distance>375</distance>
+				<Streets>one, two</Streets>
+			</adjacent>
+		</adjacents>
+	</landmark>
+</graph>
